@@ -40,9 +40,11 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
-ol, ul {
-	padding-left: 15px;
+ul {
+  padding-left: 15px;
   list-style: square;
+}
+ol {  
 }
 blockquote, q {
   quotes: none;
